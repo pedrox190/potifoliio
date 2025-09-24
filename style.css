@@ -1,0 +1,30 @@
+html{
+    scroll-behavior: smooth;
+    transition: 20s;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+header{
+}
+#section{
+    text-align: center;
+    font-size: 30px;
+}
+#section1{
+    background-color: darkseagreen;
+    font-size: 20px;
+    height: 700px;
+
+}
+#article1{
+    display: inline-block;
+
+}
+#article2{
+    display: inline-block;
+}
+#article3{
+    display: inline-block;
+}
